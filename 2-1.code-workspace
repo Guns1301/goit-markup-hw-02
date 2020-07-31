@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Desktop\\projects\\HomeWorks\\HW2\\css"
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\projects\\HomeWorks\\HW2\\fonts"
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\projects\\HomeWorks\\HW2\\images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "images"
+	}
+}
